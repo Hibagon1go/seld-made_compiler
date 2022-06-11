@@ -1,0 +1,8 @@
+objc[803]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib (0x2155ef678) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1040b02c8). One of the two will be used. Which one is undefined.
+objc[803]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib (0x2155ef6c8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1040b0318). One of the two will be used. Which one is undefined.
+
+make: Entering directory `/Users/hibagon/Desktop/self-made_compiler'
+make: Leaving directory `/Users/hibagon/Desktop/self-made_compiler'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
